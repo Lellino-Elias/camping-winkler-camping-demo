@@ -33,7 +33,7 @@ const campingWinkler: CampsiteConfig = {
     },
     {
       title: "Familiäre Atmosphäre",
-      text: "Ein Rasenplatz in der Kurzone, gepflegte Wege und persönlicher Empfang — bei Strandcamping Winkler erholt man sich in familiärer Atmosphäre.",
+      text: "Rasenplatz in der Kurzone, persönlicher Empfang und gepflegte Wege — familiäre Atmosphäre inklusive.",
       image: { src: `${IMG}/gallery-87d8c9eb74.webp`, alt: "Stellplätze auf dem Rasenplatz von Strandcamping Winkler unter einem Regenbogen" },
     },
     {
