@@ -29,7 +29,7 @@ const campingWinkler: CampsiteConfig = {
     {
       title: "Direkt am Millstätter See",
       text: "Klares Wasser, Liegewiese am Ufer und kurze Wege zum Baden — der See gehört bei uns zum Urlaubstag dazu.",
-      image: { src: `${IMG}/gallery-ecca0bbd52.webp`, alt: "Uferpromenade am Millstätter See in Seeboden" },
+      image: { src: `${IMG}/kids-c5226013a3.webp`, alt: "Kinder springen vom Steg in den Millstätter See" },
     },
     {
       title: "Familiäre Atmosphäre",
